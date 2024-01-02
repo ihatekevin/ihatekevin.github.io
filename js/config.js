@@ -18,7 +18,7 @@ const CONFIG = {
       key: 'y',
       url: 'https://youtube.com/',
       search: '/results?search_query={}',
-      color: '#FF0000',
+      color: '#240046',
       icon: 'youtube',
       quickLaunch: false,
     },  
